@@ -1,0 +1,23 @@
+body {
+    background-color: #D8BFD8;
+}
+h1
+{
+    color:#800080;  
+}
+h2
+{ 
+    color: #800080;
+}
+h3
+{
+    color: #800080;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: violet;
+    border-width: 5px;
+    width: 5px;
+}
